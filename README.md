@@ -1,7 +1,5 @@
-# learning2earning.github.io
 
-
-LEARING TO EARNING
+Learning To Earning
 ===
 
 1. We need to utilize the vast information and resources of the internet to create viable and sustainable knowledge networks  that assist the modern student to cope with the increasing demands of the “DIGITAL SHIFT”.
