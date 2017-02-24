@@ -16,7 +16,7 @@ Learning To Earning
 12. Primarily this website will focus on the dilemma of the young black males who are becoming increasing dysfunctional and disenfranchised. We they cannot rap, sing ,score a touch- down or basket they believe these are the only viable option for escape. We must convince this segment of our community most of all. Either we build better schools or get accustomed to our youth being destined for the expanding penal system. This is not an acceptable option or solution.
 
 <details>
-<summary><h2 style=disply:inline; >Click to expand</h2></summary>
+<summary><h2 style=display:inline; >Click to expand</h2></summary>
 
   ## thing1
   
