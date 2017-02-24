@@ -18,7 +18,7 @@ Learning To Earning
 <details>
 <summary><span style="font: 18pt monospace;" >Click to expand</span></summary>
 
-  ## thing1
+  thing1
   
   * **thing**
   * ''yyyy'' 
