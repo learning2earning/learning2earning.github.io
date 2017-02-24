@@ -17,11 +17,13 @@ Learning To Earning
 
 <details>
 <summary><h2>Click to expand</h2></summary>
+
   ## thing1
   
   * **thing**
   * ''yyyy'' 
-  [ggg]( https://google.com
+  
+  [ggg]( https://google.com )
   
   whatever
 </details>
